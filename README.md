@@ -1,5 +1,5 @@
-   HI - i am sameer Ahmed
-I am intersted in learning different languages like java # python and web devlopment 
+  - HI  i am sameer Ahmed
+-I am intersted in learning different languages like java # python and web devlopment 
 -I am currently learning c++ progrmaing language
 
 - You can contact me at k235535@pwr.nu.edu.pk
